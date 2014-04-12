@@ -14,3 +14,13 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+
+# Added for rails tutorial 4.0
+database.yml
+doc/
+*.swp
+.project
+.DS_Store
+.Idea
+.secret
